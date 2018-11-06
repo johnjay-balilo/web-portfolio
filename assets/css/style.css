@@ -18,6 +18,8 @@ h1 {
 	letter-spacing: 4px;
 	color: #eee8aa; 
 	font-family: 'Exo 2', sans-serif;
+	width: 400px;
+	margin: 0 auto;
 }
 
 h2 {
